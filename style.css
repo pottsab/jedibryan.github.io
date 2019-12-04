@@ -1,22 +1,22 @@
 @@font-face {
   font-family: "aurek-besh";
-  src: url("assets/AurekBesh-3wrL.ttf");
+  src: url("AurekBesh-3wrL.ttf");
 }
 body {
   background-color: #333;
   color: #73c3d9;
   font-family: "PT Mono";
-  font-size:16px;
+  font-size:26px;
   font-weight: bold;
 }
 h1{
   font-family: "aurek-besh";
   color: white;
-  font-size:11px;
+  font-size:22px;
   text-align: left;
 }
 h2{
   color: white;
-  font-size:14px;
+  font-size:24px;
   text-align: left;
 }
