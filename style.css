@@ -1,6 +1,6 @@
 @@font-face {
   font-family: "aurek-besh";
-  src: url("./AurekBesh-3wrL.ttf");
+  src: url(./AurekBesh-3wrL.ttf);
 }
 body {
   background-color: #333;
@@ -12,7 +12,7 @@ body {
 h1{
   font-family: "aurek-besh";
   color: white;
-  font-size:3em;
+  font-size:3.5em;
   text-align: left;
 }
 h2{
