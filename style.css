@@ -6,17 +6,17 @@ body {
   background-color: #333;
   color: #73c3d9;
   font-family: "PT Mono";
-  font-size:2em;
+  font-size:1em;
   font-weight: bold;
 }
-h1{
+span1{
   font-family: "Aurebesh";
   color: white;
-  font-size:2em;
+  font-size:1em;
   text-align: left;
 }
-h2{
+span2{
   color: white;
-  font-size:2em;
+  font-size:1em;
   text-align: left;
 }
