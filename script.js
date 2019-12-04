@@ -15,7 +15,7 @@ var aText = new Array(
 "Log data encrypted, searching for key...",
 "Encryption cracked.<br />Decrypting",
 ".",".",".",
-"MESSAGE RECOVERED:<br /><h1>Congratulations Jedi Bryan,<br />You have found a powerful ancient device that can re-align the rare kyber crystal to reflect shades of light. In order to shift the crystal's colors, set the device frequency to 125KHz and write these codes to the crystal and behold the power of your lightsaber and unlock the vast library of data contained in your holocron.</h1>",
+"MESSAGE RECOVERED:<br /><h1 style=font-family: Aurebesh>Congratulations Jedi Bryan,<br />You have found a powerful ancient device that can re-align the rare kyber crystal to reflect shades of light. In order to shift the crystal's colors, set the device frequency to 125KHz and write these codes to the crystal and behold the power of your lightsaber and unlock the vast library of data contained in your holocron.</h1>",
 "<br /><br />Translating to: ENGLISH...",
 "<br /><h2>Congratulations Jedi Bryan,<br />You have found a powerful ancient device that can re-align the rare kyber crystal to reflect shades of light. In order to shift the crystal's colors, set the device frequency to 125KHz and write these codes to the crystal and behold the power of your lightsaber and unlock the vast library of data contained in your holocron.</h2>",
 
@@ -28,7 +28,7 @@ var aText = new Array(
 );
 
 
-var iSpeed = 30; // time delay of print out
+var iSpeed = 5; // time delay of print out
 var iIndex = 0; // start printing array at this posision
 var iArrLength = aText[0].length; // the length of the text array
 var iScrollAt = 5; // start scrolling up at this many lines
