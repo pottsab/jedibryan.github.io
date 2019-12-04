@@ -15,9 +15,11 @@ var aText = new Array(
 "Log data encrypted, searching for key...",
 "Encryption cracked.<br />Decrypting",
 ".",".",".",
-"MESSAGE RECOVERED:<style1><br />congratulations jedi bryan,<br />you have received a powerful ancient device that can re-align the rare kyber crystal to reflect shades of light. in order to shift the crystal's colors, set the device frequency to 125khz and write these codes to the crystal and behold the power of your lightsaber and unlock the vast library of data contained in your holocron.</style1>",
+"MESSAGE RECOVERED:<style1><br />congratulations jedi bryan,<br />you have received a powerful ancient device that can re-align the rare kyber crystal to reflect shades of light.",
+"in order to shift the crystal's colors, set the device frequency to 125khz and write these codes to the crystal and behold the power of your lightsaber and unlock the vast library of data contained in your holocron.</style1>",
 "<br /><br />Translating to: ENGLISH...","",
-"<br /><style2>Congratulations Jedi Bryan,<br />You have received a powerful ancient device that can re-align the rare kyber crystal to reflect shades of light. In order to shift the crystal's colors, set the device frequency to 125KHz and write these codes to the crystal and behold the power of your lightsaber and unlock the vast library of data contained in your holocron.</style2>","",
+"<br /><style2>Congratulations Jedi Bryan,<br />You have received a powerful ancient device that can re-align the rare kyber crystal to reflect shades of light.",
+"<nobr />In order to shift the crystal's colors, set the device frequency to 125KHz and write these codes to the crystal and behold the power of your lightsaber and unlock the vast library of data contained in your holocron.</style2>","",
 
 "Receiving Data Package...","Parsing...","","",
 "INPUT | SHADE &nbsp| DATABANK LIBRARY OWNER","",
