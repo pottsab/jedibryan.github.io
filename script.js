@@ -21,8 +21,8 @@ var aText = new Array(
 "<style1>in order to shift the crystal's colors, set the device</style1>",
 "<style1>frequency to 125khz and write these codes to the crystal</style1>",
 "<style1>and behold the power of your lightsaber and unlock the</style1>",
-"<style1>vast library of data contained in your holocron.</style1>",
-"<br /><br />Translating to: ENGLISH...","",
+"<style1>vast library of data contained in your holocron.</style1>","","",
+"Translating to: ENGLISH...","",
 "<br /><style2>Congratulations Jedi Bryan,</style2>",
 "<style2>You have received a powerful ancient device that can re-align the properties of any kyber crystal to reflect different shades of light.</style2>",
 "<style2>In order to shift the crystal's colors,</style2>",
@@ -31,7 +31,11 @@ var aText = new Array(
 
 "Receiving Data Package...","Parsing...","","",
 "INPUT | SHADE &nbsp| DATABANK LIBRARY OWNER","",
-"3072 &nbsp| WHITE &nbsp| AHSOKA TANO<br />3073 &nbsp| RED &nbsp&nbsp&nbsp| DARTH VADER<br />3074 &nbsp| ORANGE | NO LIBRARY<br />3075 &nbsp| YELLOW | JEDI TEMPLE GUARD<br />3076 &nbsp| GREEN &nbsp| QUI-GON JINN<br />3077 &nbsp| TEAL &nbsp&nbsp| NO LIBRARY<br />3079 &nbsp| PURPLE | MACE WINDU LIBRARY I<br />3080 &nbsp| WHITE &nbsp| CHIRRUT IMWE<br />3081 &nbsp| RED &nbsp&nbsp&nbsp| EMPEROR PALPATINE<br />3082 &nbsp| RED &nbsp&nbsp&nbsp| COUNT DOOKU<br />3083 &nbsp| YELLOW | MAZ KANATA<br />3084 &nbsp| GREEN &nbsp| MASTER YODA<br />3085 &nbsp| RED &nbsp&nbsp&nbsp| DARTH MAUL<br />3087 &nbsp| PURPLE | MACE WINDU LIBRARY II<br />3121 &nbsp| RED &nbsp&nbsp&nbsp| ASK DARTH VADER<br />3122 &nbsp| GREEN &nbsp| ASK MASTER YODA<br />3123 &nbsp| BLACK &nbsp| SNOKE<br />",
+"3072 &nbsp| WHITE &nbsp| AHSOKA TANO",
+"3073 &nbsp| RED &nbsp&nbsp&nbsp| DARTH VADER",
+"3074 &nbsp| ORANGE | NO LIBRARY",
+"3075 &nbsp| YELLOW | JEDI TEMPLE GUARD",
+"3076 &nbsp| GREEN &nbsp| QUI-GON JINN<br />3077 &nbsp| TEAL &nbsp&nbsp| NO LIBRARY<br />3079 &nbsp| PURPLE | MACE WINDU LIBRARY I<br />3080 &nbsp| WHITE &nbsp| CHIRRUT IMWE<br />3081 &nbsp| RED &nbsp&nbsp&nbsp| EMPEROR PALPATINE<br />3082 &nbsp| RED &nbsp&nbsp&nbsp| COUNT DOOKU<br />3083 &nbsp| YELLOW | MAZ KANATA<br />3084 &nbsp| GREEN &nbsp| MASTER YODA<br />3085 &nbsp| RED &nbsp&nbsp&nbsp| DARTH MAUL<br />3087 &nbsp| PURPLE | MACE WINDU LIBRARY II<br />3121 &nbsp| RED &nbsp&nbsp&nbsp| ASK DARTH VADER<br />3122 &nbsp| GREEN &nbsp| ASK MASTER YODA<br />3123 &nbsp| BLACK &nbsp| SNOKE<br />",
 "Ending Comm-link connection.",
 "End of Program."
 
