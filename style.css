@@ -1,6 +1,6 @@
 @@font-face {
   font-family: "Aurebesh";
-  src: url(./AurekBesh-3wrL.ttf);
+  src: url('./AurekBesh-3wrL.ttf') format('truetype');
 }
 body {
   background-color: #333;
@@ -17,6 +17,6 @@ style1{
 }
 style2{
   color: white;
-  font-size:0.5em;
+  font-size:1em;
   text-align: left;
 }
