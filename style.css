@@ -6,17 +6,17 @@ body {
   background-color: #333;
   color: #73c3d9;
   font-family: "PT Mono";
-  font-size:26px;
+  font-size:26pt;
   font-weight: bold;
 }
 h1{
   font-family: "aurek-besh";
   color: white;
-  font-size:22px;
+  font-size:22pt;
   text-align: left;
 }
 h2{
   color: white;
-  font-size:24px;
+  font-size:24pt;
   text-align: left;
 }
