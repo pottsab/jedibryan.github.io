@@ -1,6 +1,10 @@
-@@font-face {
-  font-family: 'Aurebesh';
-  src: url(AurekBesh-3wrL.ttf) format('truetype');
+@font-face {
+    font-family: 'aurebeshnormal';
+    src: url('./aurebesh-webfont.woff2') format('woff2'),
+         url('./aurebesh-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
 }
 body {
   background-color: #333;
@@ -10,13 +14,10 @@ body {
   font-weight: bold;
 }
 style1{
-  font-family: 'Aurebesh';
+  font-family: "aurebeshnormal";
   color: white;
   font-size:1em;
-  text-align: left;
 }
 style2{
   color: white;
-  font-size:1em;
-  text-align: left;
 }
